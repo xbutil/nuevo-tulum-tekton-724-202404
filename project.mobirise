@@ -276,7 +276,7 @@
     "screenshot": "screenshot.png",
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "lwasaifod1",
+    "mbrsiteDomain": "jiwzvxzimp",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -297,7 +297,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-206x155.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg"
       },
       "components": [
         {
