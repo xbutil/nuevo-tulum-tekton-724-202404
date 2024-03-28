@@ -276,7 +276,7 @@
     "screenshot": "screenshot.png",
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "yna8dl8x9y",
+    "mbrsiteDomain": "lwasaifod1",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -285,7 +285,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "cssOptimize": true,
+    "cssOptimize": false,
     "lazyLoad": true
   },
   "pages": {
