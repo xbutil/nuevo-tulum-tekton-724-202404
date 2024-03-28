@@ -3313,8 +3313,8 @@ a {
   max-width: 800px;
 }
 .cid-u8hPPJaSwF {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 5rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
 }
 .cid-u8hPPJaSwF .item-subtitle {
@@ -3327,7 +3327,7 @@ a {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  height: 300px;
+  height: 200px;
   object-fit: contain;
 }
 .cid-u8hPPJaSwF .item:focus,
@@ -3341,14 +3341,6 @@ a {
   .cid-u8hPPJaSwF .item {
     margin-bottom: 1rem;
   }
-}
-.cid-u8hPPJaSwF .row {
-  margin-left: 0;
-  margin-right: 0;
-}
-.cid-u8hPPJaSwF .item {
-  padding: 0;
-  margin: 0;
 }
 .cid-u8hPPJaSwF .item-wrapper {
   position: relative;
