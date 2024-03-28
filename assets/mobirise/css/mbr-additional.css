@@ -2305,7 +2305,7 @@ a {
 .cid-u8hkns0vKM {
   padding-top: 8rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/photo-1546188994-07c34f6e5e1b.webp");
+  background-color: #000000;
 }
 .cid-u8hkns0vKM b,
 .cid-u8hkns0vKM strong {
@@ -2327,7 +2327,7 @@ a {
   top: 0;
 }
 .cid-u8hkns0vKM .card-wrapper {
-  background: #000000;
+  background: #232323;
   padding: 2.5rem;
 }
 @media (max-width: 992px) {
