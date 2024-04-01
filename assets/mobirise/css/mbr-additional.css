@@ -1748,6 +1748,9 @@ a {
   width: 100%;
   position: relative;
 }
+.cid-u8hgR9gaNH a.ax-btn {
+  color: #000000 !important;
+}
 .cid-u8hgR9gaNH .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
