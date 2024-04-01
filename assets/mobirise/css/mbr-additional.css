@@ -3,7 +3,7 @@ section {
   background-color: #ffffff;
 }
 
-body {
+body, div.floating-wpp {
   font-style: normal;
   line-height: 1.6;
   font-weight: 400;
