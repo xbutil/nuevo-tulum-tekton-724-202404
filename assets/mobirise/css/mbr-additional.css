@@ -2704,6 +2704,11 @@ a {
 .cid-u8hKTipw8O .mbr-text {
   color: #edefeb;
 }
+.cid-u8hKTipw8O p {
+  line-height: 1.6;
+  text-align: justify;
+  text-justify: inter-word;
+}
 .cid-u8hNOPDUQW {
   padding-top: 6rem;
   padding-bottom: 3rem;
