@@ -532,7 +532,9 @@
               "text-decoration": "underline"
             },
             "p": {
-              "line-height": "1.6"
+              "line-height": "1.6",
+              "text-align": "justify",
+              "text-justify": "inter-word"
             }
           },
           "_customHTML": "<section data-bs-version=\"5.1\" class=\"article12\" group=\"Article\">    \n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#000000\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4 mt-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-7\"><b>¿Buscas rendimientos atractivos que superen las expectativas tradicionales?</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\"><b>¿Buscas rendimientos atractivos que superen las expectativas tradicionales?</b></h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\">Desde mi punto de vista, hay un tema indiscutible y es en la forma en la que nosotros como latinos estamos creando formas o <b>estrategias de cuidar nuestros ingresos y salvar nuestros ahorros</b>, a lo cual la mayoría de nosotros sabemos la respuesta y es por medio de la DIVERSIFICACIÓN, tener un portafolio inmobiliario fraccionado en varias inversiones, en varios vehículos inmobiliarios que nos permitan tener un equilibrio y <b>mitigar el riesgo de una pérdida de capital por un MAL gobierno.</b><br></p>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\"><i>Hoy en día es normal tener un escenario de incertidumbre en las inversiones por los gobiernos que están dirigiendo los principales países de Latinoamérica, sin embargo acá la pregunta es</i> <b>¿Cómo comenzar a mover mi capital? ¿En qué activos seguros puedo comenzar a invertir?</b> Porque al final <i><b>NUESTRAS INVERSIONES</b></i> dependen de nosotros mismos, no de un gobierno. </p>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\">Es por eso que en una búsqueda inminente por encontrar las <b>mejores oportunidades,</b> en las cuales los inversionistas pudiesen comenzar a invertir parte de sus <b>excedentes de capital y sus ahorros,</b> me encontré con la excelente oportunidad que sigue ofreciendo la <b>tierra</b>. Solo que en este caso me fijé en un país que tuviese <b>alta demanda de turistas y una excelente valorización,</b> para así poder asegurarme que en el tiempo, mi dinero fuera un <b>ahorro</b> que me diera <b>rendimientos en dólares.</b><br><br>Por ese motivo recomiendo invertir en <b>TULUM, MÉXICO.</b><br> </p>\n            </div>\n        </div>\n    </div>\n</section>",
@@ -572,7 +574,9 @@
               "text-decoration": "underline"
             },
             "p": {
-              "line-height": "1.6"
+              "line-height": "1.6",
+              "text-align": "justify",
+              "text-justify": "inter-word"
             }
           },
           "_name": "article12",
