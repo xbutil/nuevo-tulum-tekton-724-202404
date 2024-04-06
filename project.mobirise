@@ -275,24 +275,8 @@
       "currency": "USD"
     },
     "screenshot": "screenshot.png",
-    "chatbutton": {
-      "phone": "+573007044455",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "¡Hola!👋\n\nContáctanos 🔥\n\n*Inversiones en Tulum, MX*",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": "5",
-      "headerColor": "#39847a",
-      "headerTitle": "WhatsApp",
-      "placeholder": "Escribe acá",
-      "zIndex": 10,
-      "enabled": true
-    },
     "favicon": "@PROJECT_PATH@/assets/images/tulum-icon.webp",
-    "mbrsiteDomain": "u7agg5wlxm",
+    "mbrsiteDomain": "983x5ahezb",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -302,7 +286,8 @@
     "gdpr": false,
     "pwa-switcher": false,
     "cssOptimize": false,
-    "lazyLoad": true
+    "lazyLoad": true,
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
