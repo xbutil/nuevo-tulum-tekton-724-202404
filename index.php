@@ -28,7 +28,7 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800,300i,400i,500i,600i,700i,800i&display=swap"></noscript>
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=2dw8A2"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=2dw8A2" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=RxWgAZ"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=RxWgAZ" type="text/css">
 
   
   
@@ -246,7 +246,7 @@
 
                             <div class="form-wrapper" data-form-type="formoid">
 <!--Formbuilder Form-->
-<form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" onsubmit="window.open('gracias.html','_self');" data-form-title="Nuevo Tulum 2024-03"><input type="hidden" name="email" data-form-email="true" value="xzgEBSQFIEYim1Y8/x4qcSwHQihjjjdoZrFMDUk9VbZLrkBqVnHv5jQTVTeT+Z103ui32tJI9H2lw0SKFvWt2nqykkums3eu/iUdVXaSe8lGogMj+oHN1dq62tikw+ee.uXGFvfe1hjoGAnP9cTwnEX2kIJFTbwLfPjCejIMD/1sPn7y689TPprlufTJfiOXMo9UjqoTnZ1q3H6JeDzXeJb0O7LdlF0YE1vt1quZlhFxe1tFv4TsEH1TWNrAo9tGZ">
+<form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" onsubmit="window.open('gracias.html','_self');" data-form-title="Nuevo Tulum 2024-03"><input type="hidden" name="email" data-form-email="true" value="fo55B+oP33aV7uUOG5x6mgYHmAljb7IOSvhM+4gyhnEt/YaeSRiOAwbsL4kWpQAoZ3ImeM3pwGniLHP+nj714zwVilfO5Im6CFcdZmjjSu6iHmEt3ARlbwv4O0KTYXrT.J5sHiPpoeVvKoS6wFL/XX+4tipsyHMSNHzpg05v39HOlXq3xQvCdg0ifpPUqCdHQBb/lDGkyrl6Bn4dIUbnm/CnsuXO0my88kaA5X3NYfHMbaRBSKu205/eoFRWTFbfw">
 <div class="">
 <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">¡Gracias por registrarte!</div>
 <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12"> </div>
@@ -336,7 +336,7 @@
 		<div class="row content-wrapper justify-content-center">
 			<div class="col-lg-7 mbr-form">
 				<div class="text-wrapper align-left" data-form-type="formoid">
-					<form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="wdTtyLHgvpP3/2/fxOqKt73NHjd6w3ixkfAel60OToXZrKWBaYV4Mr1BjV+tmusBd+ADlGIfkT1SJqls1gqwJ0dFLcKPyvnGwP9oNIMuoj22Ti4lhdgzXxtb3aQp0o2Q.btp3RZUcH+Z2eYavWdMrB2Aw5GQcXJDuYqgHai01gI7urZGHcvXEK3dIxjpjDgVfLiL3P4j0PDulde3RhFcdAkWhiZy6VO/D5AA0SvxSvUs+Z+owzl7JdDbgaTVPMTdO">
+					<form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="SNac2294i0SSfsiWxUGAnvblfQRUzjTUpUk8auKHqz9KjalttOvULDTo3M87cXhiE7A/4vHHTHQQXdJLlotO4v3GfnQFDz9MiTJfmfCfPHcex7Juv93Lgnq3s7Zr8z3R.UN8KBs1YgxGov72VntgdUiuLrL1zPH5KKSqAlHXoGa3Rhtw643yhTK2XIcUi3KW77juh6sNART/f2Rs/aL2nEalbxXWcPAPYDovInfrRjysundZhavyyfT8FfIl8BsGf">
 						<div class="dragArea row">
 							<div class="col-lg-12 col-md-12 col-sm-12">
 								<h1 class="mbr-section-title mbr-fonts-style mb-4 display-7"><font color="#f9a600"><strong>¿Quién soy y por qué puedo guiarlo en este proceso?</strong></font></h1>
